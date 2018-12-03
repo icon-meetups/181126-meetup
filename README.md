@@ -1,5 +1,5 @@
 # 2018/11/26 ~ 27 
-Open Developers Meetup - SCORE development hands-on session
+Enterprise Meetup - SCORE development hands-on session
 
 ## ICON Enterprise Meetup (11.26)
  
